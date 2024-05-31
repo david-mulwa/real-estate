@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Noto+Sans:ital,wght@0,100..900;1,100..900&family=Old+Standard+TT:ital,wght@0,400;0,700;1,400&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --font-bebas:'Bebas Neue', sans-serif;
+  --font-old:'Old Standard TT', monospace;
+}
+
+*{
+  scroll-behavior :smooth;
+}
+
+@layer base {
+  body {
+    @apply font-sans text-n-1 text-base;
+  }
+}
+@layer components{
+  .container{
+    @apply max-w-[77.5rem] mx-auto px-5 md:px-10 lg:px-10  xl:max-w-[87.5rem]
+  }
+}
