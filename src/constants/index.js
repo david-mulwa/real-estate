@@ -165,3 +165,95 @@ export const socials = [
     url: "#",
   },
 ];
+
+export const company =[
+  {
+    id:'0',
+    title:'Overview'
+  },
+   {
+    id:'1',
+    title:'Features'
+  },
+   {
+    id:'2',
+    title:'Solutions'
+  },
+   {
+    id:'3',
+    title:'Tutorials'
+  },
+   {
+    id:'4',
+    title:'Pricing'
+  },
+]
+
+export const resources =[
+  {
+    id:'0',
+    title:'About'
+  },
+   {
+    id:'1',
+    title:'Career'
+  },
+   {
+    id:'2',
+    title:'Press'
+  },
+   {
+    id:'3',
+    title:'News'
+  },
+   {
+    id:'4',
+    title:'Contact'
+  },
+]
+
+export const event =[
+  {
+    id:'0',
+    title:'Blog'
+  },
+   {
+    id:'1',
+    title:'Newslatter'
+  },
+   {
+    id:'2',
+    title:'Events'
+  },
+   {
+    id:'3',
+    title:'Help centers'
+  },
+   {
+    id:'4',
+    title:'Support'
+  },
+]
+
+export const login =[
+  {
+    id:'0',
+    title:'Terms'
+  },
+   {
+    id:'1',
+    title:'Privacy'
+  },
+   {
+    id:'2',
+    title:'Cookies'
+  },
+   {
+    id:'3',
+    title:'Licenses'
+  },
+   {
+    id:'4',
+    title:'Settings'
+  },
+]
