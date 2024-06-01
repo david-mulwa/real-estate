@@ -27,14 +27,9 @@ const Sanfra = () => {
      </div>
 
      <div className="">
-       <Contact title='Property for sale'>$ 300000</Contact>
+       <Contact title='Property for sale'>$310,000 USD</Contact>
       </div>
-     </div>
-
-
-        
-
-     
+     </div>   
 
       
     </Section>
