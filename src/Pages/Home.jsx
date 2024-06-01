@@ -13,7 +13,7 @@ const Home = () => {
   return (
     <Section className='mt-12 container'>
       <div className='flex w-full gap-6 flex-wrap  justify-center '>
-        <div className='block relative w-[50rem]'>
+        <div className='flex flex-col relative w-6/12 gap-5 '>
           <h1 className='text-6xl sm:text-6xl text-balance font-bold '>Where Dreams Become Home</h1>
           <p className='text-2xl text-balance sm:text-balance font-old '>Let us guide you to the perfect place for you and your loved ones.</p>
 
